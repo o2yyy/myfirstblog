@@ -8,6 +8,7 @@
 1.新建一个repository
 2.创建一个index.html页面
 
-##如何预览
+##如何设置预览页面
 1.进入settings设置页面
-2.选择下方source，在下拉菜单选择master braund，点击保存
+2.选择下方source，在下拉菜单选择master braund，点击save保存
+3.点击https://o2yyy.github.io/myfirstblog/
